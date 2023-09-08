@@ -1,0 +1,1 @@
+This code creates a game in which the computer selects a random number between 1 and 100. It then asks the user to input a number. The game continues until the user enters a number that matches the randomly chosen number. In case of an incorrect guess, the computer provides a hint whether the entered number is greater or less than the secret number.
